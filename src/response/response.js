@@ -246,7 +246,7 @@ const response = [{
 },
 {
     name: 'Beach time in Garopaba (SC, Brazil)',
-    image: '.jpg',
+    image: 'garopaba.jpg',
     dateFrom: 'Oct 1st 2019',
     dateTo: 'Oct 31st 2019',
     guests: 4,
